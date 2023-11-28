@@ -1,19 +1,14 @@
-<h1 align="center">Hello World 👋, I'm GC</h1>
+<h1 align="center">Hello World👋, I'm GC</h1>
 <h3 align="center">A passionate frontend developer from Kuala Lumpur~Malaysia</h3>
 
 - 🔭 I’m currently working on [Road To Wuqian - Unity2D](https://github.com/evansleong/RoadToWuqian-Unity2D)
-
 - 🌱 I’m currently self-learning **Python**
-
 - 👯 I’m looking to collaborate on **any Unity2D game**
-
 - 👨‍💻 All of my projects are available at [https://github.com/evansleong](https://github.com/evansleong)
-
 - 💬 Ask me about **Unity2D,C,C#,Java**
+- 📫 You can reach me at **leongevans40@gmail.com**
 
-- 📫 How to reach me **leongevans40@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">As a newcomer to programming, I'm eager to absorb advice and enhance my problem-solving skills continually !</h3>
 <p align="left">
 </p>
 
