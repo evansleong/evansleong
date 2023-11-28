@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Road To Wuqian - Unity2D](https://github.com/evansleong/RoadToWuqian-Unity2D)
 - 🌱 I’m currently self-learning **Python**
-- 👯 I’m looking to collaborate on **any Unity2D game**
+- 👯 I’m looking to collaborate on **any Unity2D game/Web development project**
 - 👨‍💻 All of my projects are available at [https://github.com/evansleong](https://github.com/evansleong)
 - 💬 Ask me about **Unity2D,C,C#,Java**
 - 📫 You can reach me at **leongevans40@gmail.com**
