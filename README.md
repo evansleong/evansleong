@@ -8,7 +8,7 @@
 - 💬 Ask me about **Unity2D,C,C#,Java**
 - 📫 You can reach me at **leongevans40@gmail.com**
 
-<h3 align="left">As a newcomer to programming, I'm eager to absorb advice and enhance my problem-solving skills continually !</h3>
+<h3 align="left">As a newcomer to programming,I'm eager to absorb advice and enhance my problem-solving skills continually!</h3>
 <p align="left">
 </p>
 
