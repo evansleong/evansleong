@@ -5,7 +5,7 @@
 - 🌱 I’m currently self-learning **Python**
 - 👯 I’m looking to collaborate on **any Unity2D game/Web development project**
 - 👨‍💻 All of my projects are available at [https://github.com/evansleong](https://github.com/evansleong)
-- 💬 Ask me about **Unity2D,C,C#,Java**
+- 💬 Ask me about **Unity2D,C,C#,Java,Javascript**
 - 📫 You can reach me at **leongevans40@gmail.com**
 
 <h3 align="left">As a newcomer to programming,I'm eager to absorb advice and enhance my problem-solving skills continually!</h3>
