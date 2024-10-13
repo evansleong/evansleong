@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm GC</h1>
-<h3 align="center">A passionate CS student from Kuala Lumpur~Malaysia</h3>
+<h3 align="center">A passionate Software Engineering student from Kuala Lumpur~Malaysia</h3>
 
 - 🔭 I’m currently working on [Road To Wuqian - Unity2D](https://github.com/evansleong/RoadToWuqian-Unity2D)
 - 👯 I’m looking to collaborate on **any Unity2D game/Web development project**
